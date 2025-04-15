@@ -4,6 +4,12 @@
 2) Przejdź do foledru przez konsolę
 3) Wykorzystaj polecenie "git init" będąc w folderze
 
-4) Stwórz dowolny plik wewnątrz folderu, np. "Hello.py" 
+4) Stwórz dowolny plik wewnątrz folderu, np. "hello.py" 
 
-5) 
+5) Dodaj stworzony plik do repozytorium za pomocą polecenia "git add hello.py"
+6) A następnie "git commit -m "Add hello.py with basic print""
+
+7) Zakładamy repozytorium na stronie github
+8) W konsoli, będąc w folderze projektu łączymy ze sobą lokalny folder z repozytorium na stronie za pomocą polecenia "git remote add origin https://github.com/Dziki19931/Training_vol1.git"
+
+
