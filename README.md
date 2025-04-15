@@ -1,2 +1,3 @@
 # Training_vol1
-Training_vol1
+
+Nauka obsługi github, repozytorium, projektów, 
